@@ -1,0 +1,1 @@
+C:\Users\USER\StudioProjects\nevigator\android\app\src\main\kotlin\com\example\nevigator\MainActivity.kt
